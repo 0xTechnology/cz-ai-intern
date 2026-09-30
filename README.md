@@ -1,4 +1,8 @@
-# CZ AI 实习生
+# CZ AI 实习生 
+
+<p align="center">
+  <img src="./avatar.png" width="200" alt="CZ AI Intern">
+</p>
 
 非官方粉丝项目。与 CZ、币安、YZiLabs、BNB Chain 无关。
 
